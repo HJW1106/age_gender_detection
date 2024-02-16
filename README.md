@@ -4,4 +4,4 @@
 
 相關實作方法可參考：[Age-Gender Detection — 客戶分析的必考題](https://medium.com/@p112098/5bdd931c91a4)
 
-final code in directory age_gender_detection.ipynb
+final code in directory ‵age_gender_detection.ipynb‵
